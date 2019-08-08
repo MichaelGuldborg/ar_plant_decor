@@ -13,10 +13,10 @@
 </p>
 
 <p float="left">
-  <img src="https://github.com/MichaelGuldborg/ar_plant_decor/assets/screenshots/home_page_01.jpg" width="200" />
-  <img src="https://github.com/MichaelGuldborg/ar_plant_decor/assets/screenshots/home_page_02.jpg" width="200" />
-  <img src="https://github.com/MichaelGuldborg/ar_plant_decor/assets/screenshots/home_page_03.jpg" width="200" />
-  <img src="https://github.com/MichaelGuldborg/ar_plant_decor/assets/screenshots/plant_picker_01.jpg" width="200" />
+  <img src="https://github.com/MichaelGuldborg/ar_plant_decor/tree/master/assets/screenshots/home_page_01.jpg" width="200" />
+  <img src="https://github.com/MichaelGuldborg/ar_plant_decor/tree/master/assets/screenshots/home_page_02.jpg" width="200" />
+  <img src="https://github.com/MichaelGuldborg/ar_plant_decor/tree/master/assets/screenshots/home_page_03.jpg" width="200" />
+  <img src="https://github.com/MichaelGuldborg/ar_plant_decor/tree/master/assets/screenshots/plant_picker_01.jpg" width="200" />
 </p>
 
 ## Key Features
