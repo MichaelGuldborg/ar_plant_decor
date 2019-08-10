@@ -1,9 +1,10 @@
 
 
 # Augmented Reality Plant Decor flutter concept
-> A concept app of viewing plants in ar before puchasing made with <a href="https://flutter.dev" target="_blank">Flutter</a>\
-> The app was made with the intend of showcasing to possibilities in animations and ease of style.\
-> The complete project was done in 6 working hours
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+A concept app of viewing plants in ar before puchasing made with <a href="https://flutter.dev" target="_blank">Flutter</a>\
+The app was made with the intend of showcasing a concept and was completed in 6 working hours
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
@@ -59,8 +60,7 @@ You can [download](https://play.google.com/store/apps/details?id=com.queenstech.
 - [Design Inspiration](https://dribbble.com/shots/4224139-House-of-Plants-AR-Concept)
 
 ## License
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
+MIT
 
 --
 
